@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            display: flex;
+            background-color: #f4f4f4;
+        }
+        
+        .sidebar {
+            width: 250px;
+            background-color: #333;
+            color: white;
+            padding: 10px;
+            height: 100vh;
+            position: fixed;
+            transition: all 0.3s;
+        }
+        .sidebar h2 {
+            text-align: center;
+            margin: 20px 0;
+        }
+        .sidebar a {
+            color: white;
+            text-decoration: none;
+            display: block;
+            padding: 10px;
+            margin: 5px 0;
+            border-radius: 5px;
+        }
+        .sidebar a:hover {
+            background-color: #404e1d;
+        }
+
+        .main {
+            margin-left: 250px;
+            padding: 20px;
+            width: calc(100% - 250px);
+        }
+        
+        .card {
+            background-color: rgb(192, 181, 181);
+            padding: 20px;
+            border-radius: 5px;
+            margin: 10px 0;
+            box-shadow: 0 2px 5px rgba(226, 184, 184, 0.1);
+        }
+
+        .header {
+            background-color: #1a114e88;
+            color: white;
+            padding: 10px;
+            text-align: center;
+            border-radius: 5px;
+            margin: 10px 0;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 20px;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+
+<div class="sidebar">
+    <h2>Dashboard</h2>
+    <a href="#"><i class="fas fa-chart-bar"></i> Reports</a>
+    <a href="#"><i class="fas fa-user"></i> Accounts</a>
+    <a href="#"><i class="fas fa-users"></i> Users</a>
+    <a href="#"><i class="fas fa-user-clock"></i> Temp Users</a>
+    <a href="#"><i class="fas fa-info-circle"></i> Total Users</a>
+</div>
+
+<div class="main">
+    <div class="header">
+        <h1> Welcome to my ultimate Dashboard</h1>
+    </div>
+    
+    <div class="card">
+        <h2>Reports</h2>
+        <p>Details about reports here.</p>
+    </div>
+    <div class="card">
+        <h2>Accounts</h2>
+        <p>Information about accounts will go here.</p>
+    </div>
+    <div class="card">
+        <h2>Users</h2>
+        <p>Total users: <strong id="totalUsers">500.00</strong></p>
+    </div>
+    <div class="card">
+        <h2>Temp Users</h2>
+        <p>Temporary users count will go here.</p>
+    </div>
+</div>
+
+
+</body>
+</html>
