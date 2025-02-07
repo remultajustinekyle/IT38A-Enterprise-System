@@ -55,5 +55,32 @@ Users gain access to complete training with multiple support tools such as help 
 Future Research Opportunities
 An investigation needs to examine how different industries respond to organizational culture when implementing ERP systems.Businesses should study the extended benefits alongside return on investment of ERP systems during long periods to discover elements which lead to enduring success.
 
+References:
+
+O.M. Burns et al.
+Critical success factors in manufacturing resource planning implementation
+International Journal of Operations and Production Management
+(1991)
+W.H. Delone et al.
+Information systems successThe quest for the dependent variable
+Information Systems Research
+(1992)
+J.S.K. Ang et al.
+Critical success factors in implementing MRP and government assistance
+Information and Management
+(1995)
 
 
+Cited by
+
+Examining the critical success factors in the adoption of enterprise resource planning
+2008, Computers in Industry
+Enterprise Resource Planning (ERP): A review of the literature
+2007, International Journal of Management and Enterprise Development
+
+
+Citation
+Garg, P. and Garg, A. (2013), "An empirical study on critical failure factors for enterprise resource planning implementation in Indian retail sector", Business Process Management Journal, Vol. 19 No. 3, pp. 496-514. https://doi.org/10.1108/14637151311319923
+
+https://www.emerald.com/insight/content/doi/10.1108/14637151311319923/full/html
+https://www.sciencedirect.com/science/article/abs/pii/S0925527304003251
