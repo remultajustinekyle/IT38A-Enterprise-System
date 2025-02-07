@@ -41,3 +41,19 @@ The Indian project faced project failure because the organization did not alloca
 3. How can future implementations avoid similar failures?
 Success of ERP implementation depends on building effective initial collaboration with stakeholders for developing user engagement and commitment. The project establishes a strong base because of this collaboration.The project needs sufficient money and specialized staff who are assigned to work on it because they must carry out all required tasks within established time limits while avoiding resources shortages. The implementation plan requires accurate development with specific contingency strategies to handle challenges that will occur throughout project execution.
 
+Insights & recommendations
+Best Practices for Successful Enterprise System Implementation.The implementation of ERP needs specific and definite targets which show exactly what the system should accomplish.
+Secure top management backing by obtaining powerful leadership commitment which will help reduce resistance during implementation.
+
+The implementation process needs user involvement because this approach serves to meet their requirements while boosting operational effectiveness.
+
+Strategies to Avoid Failure
+The timeline structure should contain attainable stages which factor in emergency response time to unpredicted obstacles.
+Users gain access to complete training with multiple support tools such as help desks and online platforms to receive assistance during their transition.A change management plan should be developed and well-communicated to users for directing their transition process and building acceptance toward changes.
+
+
+Future Research Opportunities
+An investigation needs to examine how different industries respond to organizational culture when implementing ERP systems.Businesses should study the extended benefits alongside return on investment of ERP systems during long periods to discover elements which lead to enduring success.
+
+
+
